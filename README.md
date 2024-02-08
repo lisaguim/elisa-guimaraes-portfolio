@@ -23,8 +23,8 @@ Este repositório serve como meu portfólio profissiona, destacando projetos sel
 
 ## Contato
 
-**Linkedin**: [www.linkedin.com/in/elisa-guimarães] 
-**Email** : lisagmf@gmail.com
+- **Linkedin**: [www.linkedin.com/in/elisa-guimarães]
+- **Email** : lisagmf@gmail.com
 
 ## Para mais informações ou para discutir oportunidades de colaboração, sinta-se à vontade para entrar em contato.
 
