@@ -1,4 +1,4 @@
-# Portfólio
+## Portfólio
 ## Sobre Mim
 
 Olá, meu nome é Elisa Guimarães e sou Analista de Master Data, realizando o gerenciamento de dados mestre no SAP ERP. 
@@ -32,4 +32,4 @@ Este repositório serve como meu portfólio profissiona, destacando projetos sel
 
 Este portfólio e todos os projetos incluídos estão sob licenças individuais. Consulte os Repositórios específicos para detalhes de licenciamento.
 
-## A construção desse portfólio foi mentorada pela DSA <3
+A construção desse portfólio foi mentorada pela DSA <3
